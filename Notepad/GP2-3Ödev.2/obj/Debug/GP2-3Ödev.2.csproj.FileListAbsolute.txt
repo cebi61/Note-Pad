@@ -1,0 +1,30 @@
+C:\Users\adilc\source\repos\GP2-3Ödev.2\GP2-3Ödev.2\bin\Debug\GP2-3Ödev.2.exe.config
+C:\Users\adilc\source\repos\GP2-3Ödev.2\GP2-3Ödev.2\bin\Debug\GP2-3Ödev.2.exe
+C:\Users\adilc\source\repos\GP2-3Ödev.2\GP2-3Ödev.2\bin\Debug\GP2-3Ödev.2.pdb
+C:\Users\adilc\source\repos\GP2-3Ödev.2\GP2-3Ödev.2\obj\Debug\GP2-3Ödev.2.csprojAssemblyReference.cache
+C:\Users\adilc\source\repos\GP2-3Ödev.2\GP2-3Ödev.2\obj\Debug\GP2_3Ödev._2.Form1.resources
+C:\Users\adilc\source\repos\GP2-3Ödev.2\GP2-3Ödev.2\obj\Debug\GP2_3Ödev._2.Properties.Resources.resources
+C:\Users\adilc\source\repos\GP2-3Ödev.2\GP2-3Ödev.2\obj\Debug\GP2-3Ödev.2.csproj.GenerateResource.cache
+C:\Users\adilc\source\repos\GP2-3Ödev.2\GP2-3Ödev.2\obj\Debug\GP2-3Ödev.2.csproj.CoreCompileInputs.cache
+C:\Users\adilc\source\repos\GP2-3Ödev.2\GP2-3Ödev.2\obj\Debug\GP2-3Ödev.2.exe
+C:\Users\adilc\source\repos\GP2-3Ödev.2\GP2-3Ödev.2\obj\Debug\GP2-3Ödev.2.pdb
+C:\Users\adilc\Desktop\Yeni klasör (4)\GP2-3Ödev.2\bin\Debug\GP2-3Ödev.2.exe.config
+C:\Users\adilc\Desktop\Yeni klasör (4)\GP2-3Ödev.2\bin\Debug\GP2-3Ödev.2.exe
+C:\Users\adilc\Desktop\Yeni klasör (4)\GP2-3Ödev.2\bin\Debug\GP2-3Ödev.2.pdb
+C:\Users\adilc\Desktop\Yeni klasör (4)\GP2-3Ödev.2\obj\Debug\GP2-3Ödev.2.csprojAssemblyReference.cache
+C:\Users\adilc\Desktop\Yeni klasör (4)\GP2-3Ödev.2\obj\Debug\GP2_3Ödev._2.Form1.resources
+C:\Users\adilc\Desktop\Yeni klasör (4)\GP2-3Ödev.2\obj\Debug\GP2_3Ödev._2.Properties.Resources.resources
+C:\Users\adilc\Desktop\Yeni klasör (4)\GP2-3Ödev.2\obj\Debug\GP2-3Ödev.2.csproj.GenerateResource.cache
+C:\Users\adilc\Desktop\Yeni klasör (4)\GP2-3Ödev.2\obj\Debug\GP2-3Ödev.2.csproj.CoreCompileInputs.cache
+C:\Users\adilc\Desktop\Yeni klasör (4)\GP2-3Ödev.2\obj\Debug\GP2-3Ödev.2.exe
+C:\Users\adilc\Desktop\Yeni klasör (4)\GP2-3Ödev.2\obj\Debug\GP2-3Ödev.2.pdb
+C:\Users\adilc\Desktop\eski projeler\Yeni klasör (4)\GP2-3Ödev.2\bin\Debug\GP2-3Ödev.2.exe.config
+C:\Users\adilc\Desktop\eski projeler\Yeni klasör (4)\GP2-3Ödev.2\bin\Debug\GP2-3Ödev.2.exe
+C:\Users\adilc\Desktop\eski projeler\Yeni klasör (4)\GP2-3Ödev.2\bin\Debug\GP2-3Ödev.2.pdb
+C:\Users\adilc\Desktop\eski projeler\Yeni klasör (4)\GP2-3Ödev.2\obj\Debug\GP2-3Ödev.2.csproj.AssemblyReference.cache
+C:\Users\adilc\Desktop\eski projeler\Yeni klasör (4)\GP2-3Ödev.2\obj\Debug\GP2_3Ödev._2.Form1.resources
+C:\Users\adilc\Desktop\eski projeler\Yeni klasör (4)\GP2-3Ödev.2\obj\Debug\GP2_3Ödev._2.Properties.Resources.resources
+C:\Users\adilc\Desktop\eski projeler\Yeni klasör (4)\GP2-3Ödev.2\obj\Debug\GP2-3Ödev.2.csproj.GenerateResource.cache
+C:\Users\adilc\Desktop\eski projeler\Yeni klasör (4)\GP2-3Ödev.2\obj\Debug\GP2-3Ödev.2.csproj.CoreCompileInputs.cache
+C:\Users\adilc\Desktop\eski projeler\Yeni klasör (4)\GP2-3Ödev.2\obj\Debug\GP2-3Ödev.2.exe
+C:\Users\adilc\Desktop\eski projeler\Yeni klasör (4)\GP2-3Ödev.2\obj\Debug\GP2-3Ödev.2.pdb
